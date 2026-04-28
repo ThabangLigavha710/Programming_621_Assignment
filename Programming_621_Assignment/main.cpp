@@ -45,7 +45,7 @@ public:
     }
 
     void display() {
-        cout << "Teller ID: " << tellerID << endl;
+        cout << "Teller ID: T" << tellerID << endl;
         cout << "Name: " << fullName << endl;
         cout << "Branch: " << branchCode << endl;
     }
